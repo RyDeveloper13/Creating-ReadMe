@@ -1,0 +1,16 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Practice genertating a Readme file through node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
